@@ -1,2 +1,3 @@
 # mpp_colab
-Colab
+Buka File .ipynb untuk melihat progress
+
